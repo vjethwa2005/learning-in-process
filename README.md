@@ -36,53 +36,38 @@ Problems are grouped by difficulty with direct links and code references.
 | 24  | Addition of two square matrices         | Basic      | [View Problem](https://www.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/0/) |
 | 25  | Find Pattern                            | Basic      | [View Problem](https://www.geeksforgeeks.org/problems/find-pattern--141628/0/) |
 | 26  | Print GeeksForGeeks                     | Basic      | [View Problem](https://www.geeksforgeeks.org/problems/print-geeksforgeeks--141629/0/) |
-
----
-
-## ✅ Easy Level
-
-| Done | Problem | Link | Code File |
-|------|---------|------|-----------|
-| [x] | Bubble Sort | |  |
-| [x] | Selection Sort | |  |
-| [x] | Insertion Sort | |  |
-| [x] | Square Root | |  |
-| [x] | Three way partitioning | |  |
-| [x] | Learn to Comment | |  |
-| [x] | Count 1's in binary array | |  |
-| [x] | Floor in a Sorted Array | |  |
-| [x] | Count Digits in a Number | |  |
-| [x] | Digital Root | |  |
-| [x] | Left Index | |  |
-| [x] | Number of occurrence | |  |
-| [x] | Check if array is sorted | |  |
-| [x] | Palindrome String | |  |
-| [x] | Sum Of Digits | |  |
-| [x] | Palindrome | |  |
-| [x] | Find one extra character | |  |
-| [x] | Reverse String in C | |  |
-| [x] | Find distinct elements | |  |
-| [x] | Find Transpose of a Matrix | |  |
-| [x] | Multiply Matrices | |  |
-| [x] | String comparison | |  |
-| [x] | String Concatenation | |  |
-| [x] | C - Digital root | |  |
-| [x] | C - Check Divisibility | |  |
-
----
-
-## ✅ Medium Level
-
-| Done | Problem | Link | Code File |
-|------|---------|------|-----------|
-| [x] | Find triplets with zero sum | |  |
-| [x] | Majority Element | |  |
-| [x] | Binary Array Sorting | |  |
-| [x] | Triplet Sum in Array | |  |
-| [x] | Merge Without Extra Space | |  |
-| [x] | Merge three sorted arrays | |  |
-| [x] | Kth Smallest | |  |
-
+27	Bubble Sort	Easy	View Problem
+28	Selection Sort	Easy	View Problem
+29	Insertion Sort	Easy	View Problem
+30	Square Root	Easy	View Problem
+31	Three way partitioning	Easy	View Problem
+32	Learn to Comment	Easy	View Problem
+33	Count 1's in binary array	Easy	View Problem
+34	Floor in a Sorted Array	Easy	View Problem
+35	Count Digits in a Number	Easy	View Problem
+36	Digital Root	Easy	View Problem
+37	Left Index	Easy	View Problem
+38	Number of occurrence	Easy	View Problem
+39	Check if array is sorted	Easy	View Problem
+40	Palindrome String	Easy	View Problem
+41	Sum Of Digits	Easy	View Problem
+42	Palindrome	Easy	View Problem
+43	Find one extra character	Easy	View Problem
+44	Reverse String in C	Easy	View Problem
+45	Find distinct elements	Easy	View Problem
+46	Find Transpose of a Matrix	Easy	View Problem
+47	Multiply Matrices	Easy	View Problem
+48	String comparison	Easy	View Problem
+49	String Concatenation	Easy	View Problem
+50	C - Digital root	Easy	View Problem
+51	C - Check Divisibility	Easy	View Problem
+52	Find triplets with zero sum	Medium	View Problem
+53	Majority Element	Medium	View Problem
+54	Binary Array Sorting	Medium	View Problem
+55	Triplet Sum in Array	Medium	View Problem
+56	Merge Without Extra Space	Medium	View Problem
+57	Merge three sorted arrays	Medium	View Problem
+58	Kth Smallest	Medium	View Problem
 ---
 
 ## 📌 Notes
