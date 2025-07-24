@@ -6,7 +6,6 @@ Problems are grouped by difficulty with direct links and code references.
 
 ---
 
-## ✅ Basic Level
 ## ✅ GFG DSA Problem Tracker
 
 | #   | Problem Name                            | Difficulty | Link                                                                 |
