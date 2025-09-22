@@ -14,10 +14,10 @@ Tracking my progress through the **MongoDB Basics** course on [MongoDB Universit
 | 4   | Connecting to a MongoDB Database Using the MongoDB Shell                    | ✅ Completed |
 | 5   | MongoDB Compass *(Elective)*                                                | ⏳ Pending   |
 | 6   | MongoDB CRUD: Insert and Find Documents                                     | ✅ Completed |
-| 7   | MongoDB CRUD: Replace and Delete Documents                                  | ⏳ Pending   |
-| 8   | MongoDB CRUD: Modifying Query Results                                       | ⏳ Pending   |
-| 9   | MongoDB Indexes                                                             | ⏳ Pending   |
-| 10  | MongoDB Aggregation                                                         | ⏳ Pending   |
+| 7   | MongoDB CRUD: Replace and Delete Documents                                  | ✅ Completed |
+| 8   | MongoDB CRUD: Modifying Query Results                                       | ✅ Completed |
+| 9   | MongoDB Indexes                                                             | ✅ Completed |
+| 10  | MongoDB Aggregation                                                         | ✅ Completed |
 | 11  | MongoDB Transactions                                                        | ⏳ Pending   |
 | 12  | Introduction to Atlas Search                                                | ⏳ Pending   |
 
