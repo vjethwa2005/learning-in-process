@@ -27,7 +27,7 @@ Tracking my progress through the **MongoDB Basics** course on [MongoDB Universit
 
 - ✅ Understanding MongoDB's flexible schema and document structure.
 - ✅ Setting up Atlas and connecting via MongoDB Shell.
-- ⏳ Deep dive into all CRUD operations (insert, find, update, delete).
+- ✅  Deep dive into all CRUD operations (insert, find, update, delete).
 - ⏳ Indexing, aggregation, transactions, and performance optimization.
 - ⏳ Atlas Search and GUI with MongoDB Compass.
 
