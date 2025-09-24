@@ -73,7 +73,6 @@ Problems are grouped by difficulty with direct links and code references.
 
 ## 📌 Notes
 
-- ✅ Tick means I’ve solved it.
 - Links and code files will be updated progressively.
 - Problems going forward will be added as I solve them.
 
